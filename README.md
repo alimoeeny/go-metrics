@@ -1,6 +1,8 @@
 go-metrics
 ==========
 
+[![Build Status](https://travis-ci.org/alimoeeny/go-metrics.svg?branch=master)](https://travis-ci.org/alimoeeny/go-metrics)
+
 Go port of Coda Hale's Metrics library: <https://github.com/codahale/metrics>.
 
 Documentation: <http://godoc.org/github.com/rcrowley/go-metrics>.
